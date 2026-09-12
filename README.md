@@ -1,5 +1,5 @@
 # SplitWise — Group Expense Management & Debt Simplification App
-Live : https://sathwiksplitfrontend.onrender.com
+Live : https://sathwiksplitfrontend.onrender.com ( Open this url in new window)
 
 A full-stack web application for splitting group expenses, tracking balances, and settling debts with the minimum number of transactions. Includes OTP-based email verification and a role-protected Admin Dashboard.
 
